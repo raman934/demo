@@ -1,1 +1,1 @@
-# memcached-operator
+# go-demo
